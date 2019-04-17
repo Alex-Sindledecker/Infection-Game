@@ -1,0 +1,209 @@
+﻿  main.cpp
+c:\users\alex\documents\c++ projects\game\game\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alex\documents\c++ projects\game\game\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(80): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(111): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(113): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(115): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(117): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(119): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(121): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(123): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(125): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(127): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(129): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(133): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(135): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(137): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(139): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(141): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(145): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(147): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(149): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(151): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(153): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(196): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(197): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(198): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(199): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(200): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(201): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(202): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(203): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(204): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(205): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(218): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alex\documents\c++ projects\game\game\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\c++ projects\game\game\main.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\c++ projects\game\game\main.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\c++ projects\game\game\main.cpp(408): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alex\documents\c++ projects\game\game\main.cpp(411): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\c++ projects\game\game\main.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\c++ projects\game\game\main.cpp(491): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alex\documents\c++ projects\game\game\main.cpp(494): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex\documents\c++ projects\game\game\main.cpp(549): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 552 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\Users\Alex\Documents\C++ Projects\Game\Release\Game.exe
